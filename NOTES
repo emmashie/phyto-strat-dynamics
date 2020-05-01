@@ -1,0 +1,15 @@
+### NOTES ###
+
+Figure 1: stolen from 2017 Hydrodynamic Model Validation Report 
+
+Figure 2: didn't save my plotting code... but just loaded the sb_data.csv in the phytoplankton controls project aggregated data folder ran lines 1:71 of conditional_probability_anlaysis.py and made the time series plot using the variables min_Si (simpson number) and dsdz
+
+Figure 3: conditional_probability_analysis.py lines 164:177 
+
+Figure 4: rix_model_analysis.py lines 126:135
+
+Figure 5: didn't save my plotting code again... but if you run rix_model_analysis.py and plot histograms of variables qobs, q13, q17 you'll get figure 5
+
+Figure 6: rix_model_analysis.py lines 181:199
+
+Figure 7: rix_model_analysis.py lines 159:178
